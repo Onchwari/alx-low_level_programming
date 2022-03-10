@@ -1,12 +1,2 @@
-#include <stdio.h>
-
-   /**
-   * main - Entry point
-   *
-   * Return: Always 0 (Success)
-   */
-int main(void)
-{
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
-}
+VimCrypt~03!Bö1ı\ï¼Œ$¥Ş…“‡ø¤N°'ëµôV6Öl0¿à’³êmfiQ¦Jİ#tÙ“#9Ñ§‚h4Âı2ÙlÏ©Q#0?c2ƒ‰áÓ#±9ßÏRßĞ–6oHMmŞ’~şåGw3‚’ş!ïûÄ÷`ËAÁª<XÂ¨)óàÏèñwİm€ –Ìc³ÒFefçDâjüÙâ³f°Ü35²£ÒÑZ#kúe
+Ü”Ìõz€|iõGÿGU·¹$àˆ“â“ë«ô+ê;R¨ı5T"§ä,^)G
