@@ -2,7 +2,9 @@
 
 /**
  * main-prints _putchar
+ *
  * description: prints _putchar
+ *
  * return: 0(success0
  */
 
