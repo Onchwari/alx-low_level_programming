@@ -21,6 +21,6 @@ void print_alphabbet_x10(void)
 		}
 		_putchar('\n');
 
-		round++
+		round++;
 	}
 }
